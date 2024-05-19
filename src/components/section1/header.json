@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_section1_headers",
+  "info": {
+    "displayName": "header",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "companyName": {
+      "type": "string"
+    },
+    "homeButton": {
+      "type": "string"
+    },
+    "careersButton": {
+      "type": "string"
+    },
+    "logo": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
